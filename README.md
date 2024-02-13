@@ -1,1 +1,1 @@
-How do individuals' music streaming habits, including platform choice, genres, and listening patterns, correlate with their reported mental health factors such as anxiety, depression, insomnia, and OCD?![image](https://github.com/angieravi/DataVisualization/assets/156115861/fc00f8bc-f6fa-4841-8c1f-c4ab5938494f)
+How do individuals' music streaming habits, including platform choice, genres, and listening patterns, correlate with their reported mental health factors such as anxiety, depression, insomnia, and OCD?
